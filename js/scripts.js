@@ -1,3 +1,4 @@
+//JQuery function One button for play and pause toogling
 $(function() {
     $(".carousel").carousel( { interval: 2000 } );
     $("#carouselButton").click(function(){
